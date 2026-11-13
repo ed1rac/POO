@@ -1,13 +1,12 @@
 # ☕ POO — Programação Orientada a Objetos em Java
 
 <div align="center">
-
-[![Java](https://img.shields.io/badge/Java-SE_JDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
-[![OOP](https://img.shields.io/badge/Paradigma-Orientação_a_Objetos-007ACC?style=for-the-badge)](https://github.com/ed1rac/POO)
-[![Livro Deitel](https://img.shields.io/badge/Referência-Deitel_%26_Deitel-green?style=for-the-badge)](https://deitel.com/)
-
-**Implementações práticas, estudos de caso e exercícios clássicos de Programação Orientada a Objetos baseados na obra "Java: Como Programar" (Deitel & Deitel).**
-
+  <p>
+    <a href="https://www.oracle.com/java/"><img src="https://img.shields.io/badge/Java-SE_JDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a>
+    <a href="https://github.com/ed1rac/POO"><img src="https://img.shields.io/badge/Paradigma-Orientação_a_Objetos-007ACC?style=for-the-badge" alt="OOP"></a>
+    <a href="https://deitel.com/"><img src="https://img.shields.io/badge/Referência-Deitel_%26_Deitel-green?style=for-the-badge" alt="Livro Deitel"></a>
+  </p>
+  <p><strong>Implementações práticas, estudos de caso e exercícios clássicos de Programação Orientada a Objetos baseados na obra "Java: Como Programar" (Deitel & Deitel).</strong></p>
 </div>
 
 ---
